@@ -1,0 +1,1 @@
+console.log('Conolas log from test.js');
