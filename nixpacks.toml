@@ -1,0 +1,4 @@
+# nixpacks.toml
+
+[start]
+cmd="gincorn app:app"
